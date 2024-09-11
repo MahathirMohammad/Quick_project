@@ -1,0 +1,216 @@
+header{
+	border-bottom: 3px solid #EEF0F3;
+}
+.content{
+	width: 90%;
+	margin: 0 auto;
+	overflow:hidden;
+
+}
+.logo{
+	width: 10%;
+	height: auto;
+	float: left;
+}
+.logo img{
+	width: 100%;
+
+}
+.menu{
+	width: 35%;
+	float: right;
+}
+.menu ul{
+	float: right;
+	height: auto;
+	margin-top: 21px;
+
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+
+}
+.menu ul li a{
+	font-family: sans-serif;
+	text-decoration: none;
+	margin: 0 10px;
+	display: inline-block;
+}
+
+.menu ul li:last-child a{
+	  margin-right: 0px;
+}
+
+/* header end here*/
+
+/* banner starts here*/
+
+.banner{
+	padding: 0 0;
+
+}
+.content2{
+	width: 55%;
+	margin: 0 auto ;
+
+}
+.b_content{
+	text-align: center;
+}
+
+.b_content h1{
+	font-family: sans-serif;
+	font-size: 44px;
+	font-weight: 700;
+	color: #0F2656;
+	padding-top: 20px;
+	margin-bottom: 0;
+
+
+}
+.b_content h2{
+	margin: 10px 0;
+	font-family: sans-serif;
+	font-size: 44px;
+	font-weight: 700;
+	color: #008AFF;
+
+}
+.b_content p{
+	margin-top: 0;
+	margin-bottom: 14px;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 100;
+
+	line-height: 23px;
+
+}
+
+.b_img{
+	margin: 0 auto;
+	width: 80%;	
+}
+
+.b_img logo{
+ 	width: 100%;
+}
+
+/* section ends here */
+/*success start here */
+
+
+.success{
+	padding: 50px 0;
+
+}
+.content3{
+	width: 60%;
+	margin: 0 auto;
+}
+.s_content{
+	font-family: sans-serif;
+	overflow: hidden;
+
+
+}
+
+.s_left{
+	width: 42%;
+    float: left;
+    text-align: right;
+    padding-left: 30px;
+}
+
+.s_left h2{
+	font-size: 36px;
+	font-weight: 700;
+	color: #F15767;
+	margin: 0;
+}
+.s_left p{
+	font-size: 16px;
+	font-weight: 400;
+	color: #0F2656;
+	margin-top: 6px;
+	line-height: 25px;	
+}
+
+.s_right{
+	width: 47%;
+	float: right;
+	padding-right: 30px;
+}
+
+.s_right h1{
+	font-size: 39px;
+	font-weight: 700;
+	color: #0F2656;
+	line-height: 47px;
+	margin: 0;
+	padding-right: 40px;
+}
+/* succes ends here*/
+/* feature starts here*/
+
+.feature{}
+.content4{
+	width: 90%;
+	margin: 20px auto;
+}
+
+.f_content{
+	overflow: hidden;
+}
+.f_single{
+	width: 28%;
+	font-family: sans-serif;
+	color:  #0F2656;
+	padding: 40px 1.7% 50px;
+	float: left;
+	margin-right: 2.7%;
+}
+.f_single:last-child{
+	margin-right: 0;
+}
+.pink{
+	background-color: #FDEBED;
+}
+.green{
+	background-color:#EBF9F4 ;
+}
+.yellow{
+	background-color: #FFF7E8;
+}
+.f_img img{
+	width: 100%;
+}
+.f_single h2{
+	font-size: 22px;
+	font-weight: 700;
+	margin: 19px 0;
+}
+.f_single p{
+	margin: 0;
+	font-size: 	17px;
+}
+
+/* feature ends here */
+
+
+.footer{
+	background-color: skyblue;
+	text-align: center;
+	font-family: sans-serif;
+	height: 50px;
+	padding: 30px 0 0;
+	margin-top: 40px;
+}
+
+.footer a{
+	text-decoration: none;
+}
+
+
+
